@@ -2,6 +2,27 @@
   "config": [
     {
       "type": "link",
+      "slug": "getting-started",
+      "title": "new doc page",
+      "children": [],
+      "id": "c18u2ym6g"
+    },
+    {
+      "type": "link",
+      "slug": "getting-started",
+      "title": "new doc page",
+      "children": [],
+      "id": "ucqwx2j9x"
+    },
+    {
+      "type": "link",
+      "slug": "getting-started",
+      "title": "new doc page",
+      "children": [],
+      "id": "fuqo1zc8u"
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Tina Alpaca Some Link",
