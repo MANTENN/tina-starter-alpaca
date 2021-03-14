@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "test",
+      "title": "Test",
+      "id": "l1wr06g9u",
+      "children": []
+    },
+    {
+      "type": "link",
       "slug": "getting-started",
       "title": "new doc page",
       "children": [],
